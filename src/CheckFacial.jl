@@ -1,4 +1,4 @@
-module JulyFacial
+module CheckFacial
 
 function BubbleSort(v::AbstractVector, lo::Int, hi::Int)
     while true
