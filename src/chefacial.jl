@@ -1,4 +1,4 @@
-module CheckFacial
+module chefacial
 
 function BubbleSort(v::AbstractVector, lo::Int, hi::Int)
     while true
